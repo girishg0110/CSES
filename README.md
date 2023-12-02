@@ -10,20 +10,20 @@ Some of the important header files in the standard library include:
 |     IO            |       <iostream>          |
 |    Regex          |       <regex>             |
 |    Threading      |   semaphore,mutex,thread  |
-|   Numerics        |   * cmath,bit,lin\_alg,
-                        * numbers,numeric,random,
-                        * ratio,valarray        |
+|   Numerics        |   cmath,bit,lin\_alg,
+                        numbers,numeric,random,
+                        ratio,valarray          |
 |   Algorithm       |   <algorithm>             |
 |   String          |   <string>,<format>       |
 |   Limits          |   <climits>,<cstdint>     |
-|   Utilities       |   * chrono,tuple,random,  |
-                        * bitset,cstdlib        |
-|   Containers      |   * array,deque,list,map,
-                        * queue,stack,vector,
-                        * unordered_map,
-                        * unordered_set,  
-                        * set,span,
-                        * flat_map,flat_set,
-                        * forward_list          |
+|   Utilities       |   chrono,tuple,random,    |
+                        bitset,cstdlib          |
+|   Containers      |   array,deque,list,map,
+                        queue,stack,vector,
+                        unordered_map,
+                        unordered_set,  
+                        *set,span,
+                        flat_map,flat_set,
+                        forward_list            |
                            
 
